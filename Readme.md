@@ -54,27 +54,9 @@ Ada beberapa tahap yang perlu dilakukan dalam praktikum ini yaitu :
 3. Topologi
 4. Konfigurasi
 
-### Labelling
+### Labelling & Toppologi
 
-Pada tahap labelling, ada total 18 subnet. Kami memberikan A1 kepada subnet terjauh dari cloud.
-
-#### Tabel Label
-
-Berikut tabel yang tabel subnet / label :
-
-<img src="images/tabel_label.jpg">
-<br>
-
-Setelah selesai, didapatkan bahwa kita membutuhkan 2618 IP Addresses, sehingga NID root adalah
-
-```
-Network ID        : 10.31.0.0/20
-Netmask           : 255.255.240.0
-Broadcast Address : 10.31.15.255
-Hosts             : 4094
-```
-
-#### Topologi dengan label
+Pada tahap labelling, ada total 18 subnet. Kami memberikan A1 kepada subnet paling kiri dari cloud.
 
 Berikut Topologi dengan label / subnet yang ditandai
 
@@ -88,10 +70,12 @@ Setelah selesai menentukan berapa banyak subnet yaitu 18 subnet, serta menamai d
 #### VLSM
 
 Berikut merupakan tree yang terbentuk:
-<img src="images/tree">
+<img src="images/C08Tree.drawio.png">
 
 <br>
 Maka, telah didapatkan tabel NID subnet dengan metode VLSM
 
+<img src="images/nid.png">
+<br>
 <img src="images/vlsm.jpg">
 <br>
