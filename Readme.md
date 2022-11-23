@@ -60,7 +60,7 @@ Pada tahap labelling, ada total 18 subnet. Kami memberikan A1 kepada subnet pali
 
 Berikut Topologi dengan label / subnet yang ditandai
 
-<img src="images/topo_labelled.png">
+<img src="img/topo_labelled.png">
 <br>
 
 ### Subnetting
@@ -70,12 +70,12 @@ Setelah selesai menentukan berapa banyak subnet yaitu 18 subnet, serta menamai d
 #### VLSM
 
 Berikut merupakan tree yang terbentuk:
-<img src="images/C08Tree.drawio.png">
+<img src=img/C08Tree.drawio.png">
 
 <br>
 Maka, telah didapatkan tabel NID subnet dengan metode VLSM
 
-<img src="images/nid.png">
+<img src="img/nid.png">
 <br>
-<img src="images/vlsm.jpg">
+<img src="img/VLSM.jpg">
 <br>
