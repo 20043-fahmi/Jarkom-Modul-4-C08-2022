@@ -77,5 +77,5 @@ Maka, telah didapatkan tabel NID subnet dengan metode VLSM
 
 <img src="img/nid.png">
 <br>
-![image](https://user-images.githubusercontent.com/89815856/204092557-c9e8c433-a8c6-4b30-b7a1-3e4a3a2c7c13.png)
+![image](https://user-images.githubusercontent.com/89815856/204092661-0755bae3-4b4c-4ac6-b2f4-3ccbd5adf61f.png)
 <br>
