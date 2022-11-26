@@ -10,7 +10,7 @@
 
 ## Soal
 
-<img src="images/soal_cpt.png">
+![image](https://user-images.githubusercontent.com/89815856/204092587-6cd5b84e-bdaf-4902-9564-f81fa9b4a96a.png)
 <br>
 
 ### Catatan
@@ -77,5 +77,5 @@ Maka, telah didapatkan tabel NID subnet dengan metode VLSM
 
 <img src="img/nid.png">
 <br>
-<img src="img/VLSM.jpg">
+![image](https://user-images.githubusercontent.com/89815856/204092557-c9e8c433-a8c6-4b30-b7a1-3e4a3a2c7c13.png)
 <br>
