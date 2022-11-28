@@ -70,7 +70,7 @@ Setelah selesai menentukan berapa banyak subnet yaitu 18 subnet, serta menamai d
 #### VLSM
 
 Berikut merupakan tree yang terbentuk:
-<img src=img/C08Tree.drawio.png">
+<img src="img/C08Tree.drawio.png">
 <br>
 
 Maka, telah didapatkan tabel NID subnet dengan metode VLSM
